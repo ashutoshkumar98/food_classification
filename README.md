@@ -37,7 +37,7 @@ A deep learning project using **MobileNetV2** to classify Indian dishes from ima
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/indian-food-classifier.git
+git clone https://github.com/ashutoshkumar98/food_classification.git
 cd indian-food-classifier
 ```
 
